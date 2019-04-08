@@ -1,0 +1,103 @@
+/*background color */
+body {
+  background-color:rgb(100, 0, 100);
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: rgb(100, 0, 100);
+}
+.active {
+  background-color: #4CAF50;
+}
+
+h1 {
+  font-family:"Verdana";
+}
+.navbar {
+  font-family:"Verdana";
+}
+
+p {
+  font-family:"Verdana";
+}
+
+p {
+  color: white;
+}
+h1 {
+  color: white;
+  font-size: 50px
+}
+
+li{
+  font-family:"Verdana";
+}
+
+.mainbox  {
+  width: 600px;
+  padding: 50px;
+  margin: 0px;
+  background-color: rgb(50, 50, 50);
+}
+
+.smallbox {
+  width: 650px;
+  padding: 50px;
+  margin: 5px;
+  background-color: rgb(50, 50, 50);
+}
+
+ li{
+   color: white;
+ }
+
+.largebox {
+  width: 650px;
+  padding: 50px;
+  margin: 0px;
+  background-color: rgb(255, 255, 255);
+}
+
+.interestsbox {
+  width: 600px;
+  padding: 50px;
+  margin: 0px;
+  background-color: rgb(50, 50, 50);
+}
+/*stickyfooter : meant to make it easy for visitors to see your contact information.*/
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(50, 50, 50);
+  color: white;
+  text-align: center;
+  font-family: "Verdana";
+}
+
+ul {
+  color
+}
+
+
